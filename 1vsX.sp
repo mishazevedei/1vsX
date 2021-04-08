@@ -6,7 +6,7 @@ public Plugin:myinfo =
 {
     name = "1vsX Clutch Situation",
     author = "G0dFulL & SSher1FF",
-    description = "Plugin Originally made by G0dFulL but rewrote by SSher1FF, helps with muting dead people in a clutch situation",
+    description = "Plugin Originally made by G0dFulL but rewrote by SSher1FF, helps with muteing dead people in a clutch situation",
 	version     = "1.1",
     url = "https://death.ro/"
 }
