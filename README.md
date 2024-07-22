@@ -1,6 +1,6 @@
 -> Basic info:
 
-Plugin Originally made by G0dFulL but rewrote by SSher1FF, helps with muteing dead people in a clutch situation
+Plugin Originally made by G0dFulL / misha.zevedei but rewrote by SSher1FF, helps with muteing dead people in a clutch situation
 It uses sv_full_alltalk 0 so that the player who is trying to clutch can't hear anyone while the players alive from the other team can only hear them and not the dead.
 Also it issues a HINT Message for everyone to see, announcing the mute on the dead.
 
@@ -13,7 +13,7 @@ Im a new plugin author, of course the big help i got was from SSher1FF whom you 
 G0dFulL (Mine's):
 
 - STEAM: https://steamcommunity.com/id/G0dFulL/
-- DISCORD: https://discord.gg/N58jve5q9t
+- DISCORD: https://discord.gg/deathromania
 - MY PLUGINS: https://www.sourcemod.net/plugins.php?cat=0&mod=21&title=&author=G0dFulL.&description=&search=1
 
 SSher1FF's:
